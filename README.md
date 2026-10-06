@@ -529,6 +529,10 @@ Data Science | AI/ML
 
 GitHub: `https://github.com/wardaadan03-netizen`
 
+Linkedin:`https://www.linkedin.com/in/thewardaadan-wa`
+
+Kaggle:`https://www.kaggle.com/wardaadann`
+
 ---
 
 ## Disclaimer
