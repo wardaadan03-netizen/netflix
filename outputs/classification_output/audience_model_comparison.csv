@@ -1,0 +1,6 @@
+model,accuracy,acc_ci_low,acc_ci_high,balanced_accuracy,macro_f1,weighted_f1,roc_auc,cv_macro_f1
+Baseline: majority class,0.4603,0.4356,0.4839,0.3333,0.2102,0.2902,,
+Logistic Regression,0.6787,0.6563,0.7011,0.7163,0.686,0.678,0.8389,0.6911
+Decision Tree,0.627,0.6046,0.6494,0.6715,0.6617,0.624,0.7952,0.6776
+Random Forest,0.6885,0.6672,0.7104,0.7156,0.7131,0.6856,0.8526,0.7285
+Gradient Boosting,0.6925,0.6713,0.715,0.7237,0.7159,0.6915,0.8526,0.723

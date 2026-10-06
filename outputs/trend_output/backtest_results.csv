@@ -1,0 +1,19 @@
+series,model,MAPE_pct,MAE,RMSE_1yr,n_forecasts
+Total,Naive (last value),19.96,207.0,183.5,12
+Total,Linear trend,25.78,265.6,271.0,12
+Total,Holt damped trend,28.72,288.77,175.53,12
+Total,Linear (last 5 yrs),33.59,334.97,275.72,12
+Total,Log-linear (exponential),40.2,398.37,389.06,12
+Total,Quadratic trend,41.85,416.63,325.8,12
+Movie,Naive (last value),27.44,176.83,149.18,12
+Movie,Linear trend,35.35,225.28,227.17,12
+Movie,Holt damped trend,43.33,264.39,147.84,12
+Movie,Linear (last 5 yrs),50.77,303.43,242.98,12
+Movie,Log-linear (exponential),55.76,328.86,318.87,12
+Movie,Quadratic trend,62.47,367.21,283.41,12
+TV Show,Holt damped trend,12.87,45.95,45.93,12
+TV Show,Quadratic trend,14.94,55.36,52.27,12
+TV Show,Linear (last 5 yrs),15.58,53.76,47.68,12
+TV Show,Log-linear (exponential),21.75,80.79,82.3,12
+TV Show,Naive (last value),28.73,104.33,66.62,12
+TV Show,Linear trend,33.09,117.97,91.88,12

@@ -1,0 +1,81 @@
+query,rank,title,type,release_year,country,rating,genres,similarity
+Stranger Things,1,Chilling Adventures of Sabrina,TV Show,2020,United States,TV-14,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",0.84
+Stranger Things,2,Beyond Stranger Things,TV Show,2017,United States,TV-14,"Stand-Up Comedy & Talk Shows, TV Mysteries, TV Sci-Fi & Fantasy",0.828
+Stranger Things,3,The Originals,TV Show,2018,United States,TV-14,"TV Dramas, TV Horror, TV Mysteries",0.799
+Stranger Things,4,The Vampire Diaries,TV Show,2016,United States,TV-14,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",0.795
+Stranger Things,5,The Messengers,TV Show,2015,United States,TV-14,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",0.795
+Stranger Things,6,The 4400,TV Show,2007,United States,TV-14,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",0.777
+Stranger Things,7,The Guest,TV Show,2018,South Korea,TV-14,"International TV Shows, TV Horror, TV Mysteries",0.768
+Stranger Things,8,Anjaan: Special Crimes Unit,TV Show,2018,India,TV-14,"International TV Shows, TV Horror, TV Mysteries",0.768
+Stranger Things,9,ThirTEEN Terrors,TV Show,2014,Thailand,TV-14,"International TV Shows, TV Horror, TV Mysteries",0.768
+Stranger Things,10,Nightflyers,TV Show,2018,United States,TV-MA,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",0.76
+Peaky Blinders,1,Giri / Haji,TV Show,2019,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,2,Marcella,TV Show,2019,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,3,Safe,TV Show,2018,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,4,Collateral,TV Show,2018,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,5,Kiss Me First,TV Show,2018,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,6,The Frankenstein Chronicles,TV Show,2017,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,7,Broadchurch,TV Show,2017,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,8,Happy Valley,TV Show,2016,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,9,Paranoid,TV Show,2016,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Peaky Blinders,10,Retribution,TV Show,2016,United Kingdom,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",0.92
+Naruto,1,Bleach,TV Show,2006,Japan,TV-14,"Anime Series, International TV Shows",0.92
+Naruto,2,Gurren Lagann,TV Show,2007,Japan,TV-14,"Anime Series, International TV Shows",0.92
+Naruto,3,Soul Eater,TV Show,2008,Japan,TV-14,"Anime Series, International TV Shows",0.92
+Naruto,4,Fullmetal Alchemist,TV Show,2003,Japan,TV-14,"Anime Series, International TV Shows",0.92
+Naruto,5,InuYasha,TV Show,2001,Japan,TV-14,"Anime Series, International TV Shows",0.92
+Naruto,6,ONE PIECE,TV Show,2002,Japan,TV-14,Anime Series,0.854
+Naruto,7,Marvel Anime: X-Men,TV Show,2011,Japan,TV-14,"Anime Series, International TV Shows",0.84
+Naruto,8,TIGER & BUNNY,TV Show,2011,Japan,TV-14,"Anime Series, International TV Shows",0.84
+Naruto,9,Puella Magi Madoka Magica,TV Show,2011,Japan,TV-14,"Anime Series, International TV Shows",0.84
+Naruto,10,Yowamushi Pedal,TV Show,2013,Japan,TV-14,"Anime Series, International TV Shows",0.84
+Sacred Games,1,1983,TV Show,2018,Poland,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.957
+Sacred Games,2,Delhi Crime,TV Show,2019,India,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.92
+Sacred Games,3,She,TV Show,2020,India,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.913
+Sacred Games,4,When They See Us,TV Show,2019,United States,TV-MA,"Crime TV Shows, TV Dramas",0.892
+Sacred Games,5,The Yard,TV Show,2019,Turkey,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.88
+Sacred Games,6,Diamond City,TV Show,2019,South Africa,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.88
+Sacred Games,7,Bordertown,TV Show,2019,Finland,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.88
+Sacred Games,8,Ultraviolet,TV Show,2019,Poland,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.88
+Sacred Games,9,Sintonia,TV Show,2019,Brazil,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.88
+Sacred Games,10,Black Spot,TV Show,2019,France,TV-MA,"Crime TV Shows, International TV Shows, TV Dramas",0.88
+Bird Box,1,TAU,Movie,2018,United States,R,"Sci-Fi & Fantasy, Thrillers",0.716
+Bird Box,2,3022,Movie,2019,United States,R,"Independent Movies, Sci-Fi & Fantasy, Thrillers",0.712
+Bird Box,3,Black Mirror: Bandersnatch,Movie,2018,United States,TV-MA,"Dramas, International Movies, Sci-Fi & Fantasy",0.687
+Bird Box,4,Prospect,Movie,2018,Canada,R,"Sci-Fi & Fantasy, Thrillers",0.684
+Bird Box,5,Elizabeth Harvest,Movie,2019,United States,R,"Dramas, Sci-Fi & Fantasy",0.668
+Bird Box,6,Freaks,Movie,2018,United States,R,"Independent Movies, Sci-Fi & Fantasy, Thrillers",0.666
+Bird Box,7,MindGamers,Movie,2017,Austria,R,"International Movies, Sci-Fi & Fantasy, Thrillers",0.662
+Bird Box,8,Automata,Movie,2014,Bulgaria,R,"International Movies, Sci-Fi & Fantasy, Thrillers",0.662
+Bird Box,9,See You Yesterday,Movie,2019,United States,TV-MA,"Dramas, Sci-Fi & Fantasy, Thrillers",0.653
+Bird Box,10,In the Shadow of the Moon,Movie,2019,United States,TV-MA,"Dramas, Sci-Fi & Fantasy, Thrillers",0.653
+Dangal,1,'89,Movie,2017,United Kingdom,TV-PG,Sports Movies,0.868
+Dangal,2,Antoine Griezmann: The Making of a Legend,Movie,2019,Pakistan,TV-PG,"Documentaries, International Movies, Sports Movies",0.769
+Dangal,3,Mary Kom,Movie,2014,India,TV-PG,"Dramas, International Movies, Sports Movies",0.742
+Dangal,4,Patiala House,Movie,2011,India,TV-PG,"Dramas, International Movies, Sports Movies",0.742
+Dangal,5,3 Heroines,Movie,2016,Indonesia,TV-PG,"Dramas, International Movies, Sports Movies",0.71
+Dangal,6,Ferrari Ki Sawaari,Movie,2012,India,TV-PG,"Comedies, International Movies, Sports Movies",0.669
+Dangal,7,Full Out,Movie,2015,Canada,TV-PG,"Children & Family Movies, Dramas, Sports Movies",0.659
+Dangal,8,Limitless,Movie,2017,India,TV-PG,"Documentaries, International Movies, Sports Movies",0.653
+Dangal,9,Azhar,Movie,2016,India,TV-14,"Dramas, International Movies, Sports Movies",0.651
+Dangal,10,Bathinda Express,Movie,2016,India,TV-14,"Dramas, International Movies, Sports Movies",0.651
+Our Planet,1,Nature: Animals With Cameras,TV Show,2018,United Kingdom,TV-PG,"Docuseries, Science & Nature TV",0.92
+Our Planet,2,Great Yellowstone Thaw,TV Show,2017,United Kingdom,TV-PG,"Docuseries, Science & Nature TV",0.92
+Our Planet,3,The Making of Frozen Planet,TV Show,2012,United Kingdom,TV-PG,"British TV Shows, Docuseries, Science & Nature TV",0.906
+Our Planet,4,Monkey Planet,TV Show,2014,United Kingdom,TV-PG,"British TV Shows, Docuseries, Science & Nature TV",0.893
+Our Planet,5,Islands of the Future,TV Show,2014,United Kingdom,TV-PG,"Docuseries, International TV Shows, Science & Nature TV",0.883
+Our Planet,6,One Strange Rock,TV Show,2018,United States,TV-PG,"Docuseries, Science & Nature TV",0.88
+Our Planet,7,Food: Delicious Science,TV Show,2017,Pakistan,TV-PG,"Docuseries, Science & Nature TV",0.88
+Our Planet,8,The Curse of Oak Island,TV Show,2016,United States,TV-PG,"Docuseries, Science & Nature TV",0.88
+Our Planet,9,The Universe: Ancient Mysteries Solved,TV Show,2015,Pakistan,TV-PG,"Docuseries, Science & Nature TV",0.88
+Our Planet,10,The Hunt,TV Show,2015,United Kingdom,TV-PG,"British TV Shows, Docuseries, Science & Nature TV",0.872
+The Social Dilemma,1,The Minimalists: Less Is Now,Movie,2021,United States,TV-14,Documentaries,0.802
+The Social Dilemma,2,Creating The Queen's Gambit,Movie,2021,United States,TV-14,Documentaries,0.802
+The Social Dilemma,3,Chasing Coral,Movie,2017,United States,TV-PG,Documentaries,0.769
+The Social Dilemma,4,Crip Camp: A Disability Revolution,Movie,2020,United States,R,Documentaries,0.76
+The Social Dilemma,5,Murder to Mercy: The Cyntoia Brown Story,Movie,2020,United States,TV-MA,Documentaries,0.76
+The Social Dilemma,6,Ya no estoy aquí: Una conversación entre Guillermo del Toro y Alfonso Cuarón,Movie,2020,Pakistan,TV-PG,Documentaries,0.753
+The Social Dilemma,7,Elizabeth and Margaret: Love and Loyalty,Movie,2020,United Kingdom,TV-PG,Documentaries,0.753
+The Social Dilemma,8,Dick Johnson Is Dead,Movie,2020,United States,PG-13,Documentaries,0.742
+The Social Dilemma,9,Giving Voice,Movie,2020,United States,PG-13,Documentaries,0.742
+The Social Dilemma,10,Surviving R. Kelly: The Impact,Movie,2019,United States,TV-14,Documentaries,0.722
