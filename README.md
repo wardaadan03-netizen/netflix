@@ -1,8 +1,8 @@
-# Netflix Data Science Internship Project
+# Netflix Data Science Project
 
-An end-to-end Data Science project developed as part of an internship, covering data cleaning and preprocessing, exploratory data analysis, machine learning classification, content-based recommendation, and trend forecasting using a Netflix titles dataset.
+An end-to-end **Data Science project independently developed** using a Netflix titles dataset. The project covers data cleaning and preprocessing, exploratory data analysis, machine learning classification, content-based recommendation, and trend forecasting.
 
-The project follows a structured data science workflow, transforming raw Netflix catalogue data into a cleaned analytical dataset and applying statistical analysis, machine learning, recommendation techniques, and forecasting methods.
+The project follows a structured Data Science workflow, transforming raw Netflix catalogue data into a cleaned analytical dataset and applying statistical analysis, machine learning, recommendation techniques, and forecasting methods.
 
 ---
 
@@ -10,16 +10,16 @@ The project follows a structured data science workflow, transforming raw Netflix
 
 This project explores Netflix catalogue data from multiple Data Science perspectives:
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning Classification
-- Content-Based Recommendation System
-- Trend Analysis & Forecasting
-- Data Visualization
-- Model Evaluation
-- Output generation for further analysis and dashboards
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Machine Learning Classification
+* Content-Based Recommendation System
+* Trend Analysis & Forecasting
+* Data Visualization
+* Model Evaluation
+* Output Generation for Further Analysis and Dashboards
 
-The project is organized as a multi-stage pipeline where the cleaned dataset produced during preprocessing is used by the downstream analytical and machine learning tasks.
+The project is organized as a multi-stage pipeline where the cleaned dataset produced during preprocessing is used by downstream analytical and machine learning tasks.
 
 ---
 
@@ -44,7 +44,7 @@ Cleaned Dataset
                               │
                               ▼
                        Forecast Results
-````
+```
 
 ---
 
@@ -85,7 +85,7 @@ The resulting cleaned dataset is saved as:
 data/processed/netflix_cleaned.csv
 ```
 
-The preprocessing script also performs sanity checks before saving the final dataset.   
+The preprocessing script also performs sanity checks before saving the final dataset.
 
 ---
 
@@ -108,7 +108,7 @@ Areas explored include:
 * Release-to-Netflix arrival gap
 * Netflix content addition timing
 
-The EDA script automatically saves visualizations into the `figures/` directory.   
+The EDA script automatically saves visualizations into the `figures/` directory.
 
 ---
 
@@ -157,7 +157,7 @@ Evaluation metrics include:
 * Classification Report
 * Confusion Matrix
 
-Hyperparameter tuning is performed using `GridSearchCV`, and the final model is selected using cross-validation macro-F1.   
+Hyperparameter tuning is performed using `GridSearchCV`, and the final model is selected using cross-validation macro-F1.
 
 The best trained model is also saved as a `.joblib` file for later use.
 
@@ -178,7 +178,7 @@ The system uses features including:
 * Country
 * Title words
 
-Text preprocessing includes normalization, stop-word removal, tokenization, and conversion of multi-word categories into usable tokens.  
+Text preprocessing includes normalization, stop-word removal, tokenization, and conversion of multi-word categories into usable tokens.
 
 The recommendation engine uses:
 
@@ -198,7 +198,7 @@ The implementation also evaluates recommendation quality using metrics such as:
 * Catalogue coverage
 * Recommendation concentration
 
-The system is explicitly **content-based** and does not rely on user viewing history or user ratings because those fields are not available in the dataset.  
+The system is explicitly **content-based** and does not rely on user viewing history or user ratings because those fields are not available in the dataset.
 
 ---
 
@@ -231,14 +231,14 @@ The models are evaluated using rolling-origin backtesting and metrics including:
 * MAE
 * RMSE
 
-The best-performing model is selected based on backtesting performance and used to generate future forecasts.   
+The best-performing model is selected based on backtesting performance and used to generate future forecasts.
 
 ---
 
 ## Project Structure
 
 ```text
-netflix-data-science-internship-project/
+netflix-data-science-project/
 │
 ├── data/
 │   ├── raw/
@@ -323,13 +323,13 @@ netflix-data-science-internship-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/netflix-data-science-internship-project.git
+git clone https://github.com/YOUR-USERNAME/netflix-data-science-project.git
 ```
 
 ### 2. Navigate into the project
 
 ```bash
-cd netflix-data-science-internship-project
+cd netflix-data-science-project
 ```
 
 ### 3. Create a virtual environment
@@ -481,9 +481,9 @@ The recommendation system is based on available catalogue metadata. The dataset 
 * Plot descriptions
 * Complete cast information
 
-Therefore, the recommendation engine is a **content-based recommendation system**, rather than a collaborative filtering system. 
+Therefore, the recommendation engine is a **content-based recommendation system**, rather than a collaborative filtering system.
 
-The trend forecasting component also accounts for incomplete recent release-year data, since newer titles may continue to be added to Netflix after their original release year. 
+The trend forecasting component also accounts for incomplete recent release-year data, since newer titles may continue to be added to Netflix after their original release year.
 
 ---
 
@@ -529,13 +529,15 @@ Data Science | AI/ML
 
 GitHub: `https://github.com/wardaadan03-netizen`
 
-Linkedin:`https://www.linkedin.com/in/thewardaadan-wa`
+LinkedIn: `https://www.linkedin.com/in/thewardaadan-wa`
 
-Kaggle:`https://www.kaggle.com/wardaadann`
+Kaggle: `https://www.kaggle.com/wardaadann`
 
 ---
 
 ## Disclaimer
 
-This project is an educational and internship Data Science project developed for analytical and learning purposes. It is not affiliated with or endorsed by Netflix.
+This is an **independent educational Data Science project** developed for learning, experimentation, portfolio development, and analytical purposes.
+
+This project is not affiliated with or endorsed by Netflix.
 
